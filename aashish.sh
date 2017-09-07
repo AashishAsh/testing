@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello world aashish test"
+echo "hello world aashish github hook"
